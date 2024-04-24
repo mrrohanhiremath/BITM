@@ -1,0 +1,10 @@
+praveen=[10,20,30,40,50]
+sanjay=[60,70,80,90,100]
+chinnu=praveen+sanjay
+print(chinnu)
+print(type(praveen))
+print(type(chinnu))
+print(chinnu*2)
+print(len(chinnu))
+print(max(chinnu))
+print(min(chinnu))
